@@ -1,0 +1,4 @@
+termcolor
+tqdm
+requests
+PyMySQL==1.0.2

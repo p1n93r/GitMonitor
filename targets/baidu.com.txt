@@ -1,0 +1,11 @@
+app.baidu.com
+cloud.baidu.com
+email.baidu.com
+vps.baidu.com
+dev.baidu.com
+api.baidu.com
+crm.baidu.com
+vpn.baidu.com
+es.baidu.com
+cas.baidu.com
+sa.baidu.com
