@@ -1,4 +1,4 @@
-# Author: myc
+# Author: p1n93r
 # Date  : 2021/01/24
 
 import pymysql
